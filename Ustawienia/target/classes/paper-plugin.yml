@@ -1,0 +1,11 @@
+name: Ustawienia
+version: '1.0-SNAPSHOT'
+main: vondri.plugin.ustawienia.Ustawienia
+api-version: '1.20'
+
+commands:
+  ustawienia:
+    aliases: ustawienia
+    description: "Ustawienia gracza"
+
+
