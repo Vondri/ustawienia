@@ -1,0 +1,11 @@
+name: UstawieniaSpigot
+version: '${project.version}'
+main: vondri.plugin.ustawieniaspigot.UstawieniaSpigot
+api-version: '1.20'
+author: 'Dominik "NediiPL/Vondri" Vondracek'
+
+commands:
+  ustawienia:
+    usage: "/ustawienia"
+    description: "GUI Ustawień dla gracza."
+    permission: nopixel.ustawienia
